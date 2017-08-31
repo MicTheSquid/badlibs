@@ -4,6 +4,10 @@
     <title>BadLibs!</title>
   </head>
   <body>
-    <h1>Hello World</h1>
+  	<form method="GET" action="hello.php">
+      <input type="text" name="first-name" placeholder="First name" />
+    	<input type="text" name="last-name" placeholder="Last name"/>
+      <input type="submit" name=""/>
+  	</form>
   </body>
 </html>
