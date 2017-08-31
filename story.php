@@ -1,0 +1,1 @@
+<?php echo "There was a " . $_POST["adjective"] . " " . $_POST["noun"] . " that " . $_POST["verb"] . " " . $_POST["adverb"] . "."; ?>

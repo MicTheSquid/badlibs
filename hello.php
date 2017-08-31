@@ -1,1 +1,0 @@
-<?php echo "Hello " . $_POST["first-name"] . " " .  $_POST["last-name"]; ?>
