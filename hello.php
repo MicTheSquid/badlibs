@@ -1,1 +1,1 @@
-<?php echo "Hello " . $_GET["first-name"] . " " .  $_GET["last-name"]; ?>
+<?php echo "Hello " . $_POST["first-name"] . " " .  $_POST["last-name"]; ?>
